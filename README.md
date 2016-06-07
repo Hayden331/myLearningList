@@ -32,6 +32,15 @@
     * 類庫模塊化：CommonJS / AMD
     * 移動Web
 
+7. 編程語言
+    * Javascript / node.js
+
+8. 基礎呈現
+    * SASS / Bootstrap
+
+9. 可視化/組件
+    * d3.js / SVG / Canvas / WebGL / three.js
+    * leaflet.js / paper.js / 
 
 
 
