@@ -15,7 +15,7 @@
 
 前端標準/規範 - ES5 / ES6 / CommonJS / AMD / HTML5 / CSS3
 
-          - 性能： HTTPWatch / PageSpeed / 高性能Javascript
+   - 性能： HTTPWatch / PageSpeed / 高性能Javascript
 
 部署流程  - 壓縮合併：CleanCSS / UglifyJS
           - 文檔輸出
